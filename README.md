@@ -9,9 +9,9 @@
 
 ## Examples of Work
 
-[<img src="/img/pr-7.png" width=50%>](https://vohol.github.io/beauty-clock/)
-
 [<img src="/img/pr-6.jpg" width=50%>](https://vohol.github.io/our-pricing/)
+
+[<img src="/img/pr-7.png" width=50%>](https://vohol.github.io/beauty-clock/)
 
 [<img src="/img/pr-5.jpg" width=50%>](https://vohol.github.io/purple-accordion/)
 
