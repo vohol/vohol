@@ -12,4 +12,4 @@
 ### HTML/CSS
 
 [<img src="/img/pr-1.jpg">](https://vohol.github.io/i-am-John/)
-[<img src="/img/pr-2.jpg">](https://vohol.github.io/cloudbudget/)
+[<img src="/img/pr-2.png">](https://vohol.github.io/cloudbudget/)
